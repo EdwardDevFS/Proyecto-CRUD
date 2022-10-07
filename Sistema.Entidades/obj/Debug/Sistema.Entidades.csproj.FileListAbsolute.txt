@@ -1,0 +1,12 @@
+C:\proyecto4s\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\proyecto4s\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\proyecto4s\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.AssemblyReference.cache
+C:\proyecto4s\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\proyecto4s\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\proyecto4s\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
+C:\Users\ACER\Desktop\Trabajos Edward\SENATI\Sistema\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\Users\ACER\Desktop\Trabajos Edward\SENATI\Sistema\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\Users\ACER\Desktop\Trabajos Edward\SENATI\Sistema\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Trabajos Edward\SENATI\Sistema\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Trabajos Edward\SENATI\Sistema\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\Users\ACER\Desktop\Trabajos Edward\SENATI\Sistema\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
